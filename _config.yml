@@ -61,6 +61,7 @@ author:
   name   : "Callum Leach"
   avatar : "/images/Profile-Photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "London, UK"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
