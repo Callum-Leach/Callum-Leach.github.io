@@ -13,16 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-GB"
 title: Callum R.F Leach
 email: callumleach31@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+url: "https://callum-leach.github.io"
 twitter_username: username
 github_username: Callum-Leach
 minimal_mistakes_skin: "dark"
 search: true
+comments:
+  provider: "disqus" #, "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname: "callum-leach-github-io"
+  discourse:
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
 
 # Build settings
 markdown: kramdown
