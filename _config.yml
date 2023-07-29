@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Callum Leach"
   avatar : "/images/Profile-Photo.jpg"
-  bio    : "Data scientist, data engineer, does it really matter ? I simply enjoy learning somthing new."
+  bio    : "Welcome to my virtual abode of data science and maths musings, a place to both learn and delight!"
   location: "London, UK"
   links:
     - label: "GitHub"

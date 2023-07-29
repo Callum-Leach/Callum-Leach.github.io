@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /life/
+title: "Life"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello there! I'm Callum, a passionate data scientist and statistician at Shell with a fascination for all things mathematics. My role at shell involves working at the confluence Data Science, Data Engineering and Machine Learning, from exporing extreme values in climate data to constructing data and machine learning pipelines.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+But when I'm not deciphering data patterns and unrevelling isnights, you can find me seeking solace in the great outdoors. Fishing and surfing have become my passions, a perfect escape from the rigors of daily life.
