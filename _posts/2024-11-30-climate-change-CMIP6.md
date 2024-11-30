@@ -26,5 +26,5 @@ changes in the 100-year return value for annual maxima of wind variables over ti
 in marked contrast to our findings for rsds and tas. For annual means, there is stronger evidence for changes over
 time for wind variables, especially in the Northern Hemisphere, but the extent of the changes is small
 
-- ![Full Paper: Climate Change CMIP6 Study](https://github.com/Callum-Leach/Callum-Leach.github.io/tree/master/Files/LchEA-ClimateChangeExtremeQuantile.pdf)
-- ![Supplementary Material](https://github.com/Callum-Leach/Callum-Leach.github.io/tree/master/Files/LchEA-ClimateChangeExtremeQuantile-SM.pdf)
+- [Full Paper: Climate Change CMIP6 Study](https://github.com/Callum-Leach/Callum-Leach.github.io/tree/master/Files/LchEA-ClimateChangeExtremeQuantile.pdf){:target="_blank"}
+- [Supplementary Material](https://github.com/Callum-Leach/Callum-Leach.github.io/tree/master/Files/LchEA-ClimateChangeExtremeQuantile-SM.pdf){:target="_blank"}
