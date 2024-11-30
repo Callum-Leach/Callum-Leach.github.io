@@ -17,6 +17,6 @@ and climate zone annual maximum and annual mean data for the period (2015, 2100)
 CMIP6 GCMs for the daily wind speed (sfcWind) and maximum wind speed (sfcWindmax), solar irradiance (rsds)
 and near-surface temperature (tas) variables.
 
-![Full Paper: Climate Change CMIP6 Study](https://callum-leach.github.io/Files/LchEA-ClimateChangeExtremeQuantile.pdf){:target="_blank"}
+[Full Paper: Climate Change CMIP6 Study](https://callum-leach.github.io/Files/LchEA-ClimateChangeExtremeQuantile.pdf)
 
-![Supplementary Material](https://callum-leach.github.io/Files/LchEA-ClimateChangeExtremeQuantile-SM.pdf){:target="_blank"}
+[Supplementary Material](https://callum-leach.github.io/Files/LchEA-ClimateChangeExtremeQuantile-SM.pdf)
