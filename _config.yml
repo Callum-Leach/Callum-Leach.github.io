@@ -25,17 +25,18 @@ twitter_username: username
 github_username: Callum-Leach
 minimal_mistakes_skin: "dark"
 search: true
-comments:
-  provider: "disqus" #, "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname: "callum-leach-github-io"
-  discourse:
-    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+# comments:
+#   provider: "disqus" #, "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+#   disqus:
+#     shortname: "callum-leach-github-io"
+#   discourse:
+#     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     # https://developers.facebook.com/docs/plugins/comments
+#     appid:
+#     num_posts: # 5 (default)
+#    colorscheme: # "light" (default), "dark"
+
 
 
 # Build settings
