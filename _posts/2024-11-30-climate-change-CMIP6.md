@@ -1,5 +1,5 @@
 ---
-title: "Changes over time in the 100-year return value of climate model variables"
+title: "The Future of Wind, Solar, and Temperature Extremes"
 last_modified_at: 2025-02-05
 mathjax: true
 categories:
@@ -11,10 +11,10 @@ tags:
     - Extremes
 ---
 
-We assess the strength of evidence in favour of changes in the distributional tail characteristics of wind, solar irradiance
-and temperature variables available as output of CMIP6 climate models, due to climate forcing. We estimate global
-and climate zone annual maximum and annual mean data for the period (2015, 2100) from daily output of seven
-CMIP6 GCMs for the daily wind speed (sfcWind) and maximum wind speed (sfcWindmax), solar irradiance (rsds)
-and near-surface temperature (tas) variables.
+As climate change reshapes our world, extremes in weather are becoming increasing important, especially for sectors like renewable energy. In this research, we explore how the most extreme values of surface winds, solar irradiance and temperature are projected to shift throughout this century under different climate scenarios.
 
-[Revised Paper: Climate Change CMIP6 Study](https://callum-leach.github.io/Files/LchEA24ClmChn.pdf)
+Using data from seven CMIP6 global climate models (GCMs), we studied how these variables-wind speed, solar irradiance and near surface temperatures might change over time, in terms of yearly minima, maxima and averages.
+
+
+
+[Read the full paper here:](https://callum-leach.github.io/Files/LchEA24ClmChn.pdf)
