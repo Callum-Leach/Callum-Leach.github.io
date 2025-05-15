@@ -17,4 +17,4 @@ Using data from seven CMIP6 global climate models (GCMs), we studied how these v
 
 
 
-[Read the full paper here:](https://callum-leach.github.io/Files/LchEA24ClmChn.pdf)
+[Read the full paper here](https://callum-leach.github.io/Files/LchEA24ClmChn.pdf)
