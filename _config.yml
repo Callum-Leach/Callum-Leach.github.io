@@ -100,6 +100,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Callum-Leach"
 
+    - label: "CV"
+      icon: "fab fa-fw fa-contract"
+      url: "https://callum-leach.github.io/Files/CV_2025.pdf"
+
 footer:
   links:
     - label: "GitHub"
