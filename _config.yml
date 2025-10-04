@@ -101,7 +101,7 @@ author:
       url: "https://github.com/Callum-Leach"
 
     - label: "CV"
-      icon: "fab fa-fw fa-file-contract"
+      icon: "fas fa-fw fa-file-contract"
       url: "https://callum-leach.github.io/Files/CV_2025.pdf"
 
 footer:
