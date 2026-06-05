@@ -28,9 +28,6 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Life"
-    url: /life/
 
   # - title: "Guide"
   #   url: /markdown/
