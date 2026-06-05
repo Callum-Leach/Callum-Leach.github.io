@@ -212,9 +212,10 @@
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
+        margin-right: auto;
 
         a {
-          margin-right: auto;
+          margin-left: 0;
         }
       }
 
