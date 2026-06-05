@@ -1,6 +1,10 @@
 ---
-permalink: /life/
-title: "Life"
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I'm Callum, a passionate data scientist at Kubrick with a fascination for applied Mathematics. My role at Kubrick involves working at the confluence of Data Science, Data Engineering and Statistics, from exploring extreme values in our climate to constructing data and machine learning pipelines.
