@@ -75,11 +75,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "false" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
@@ -90,8 +90,8 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : "https://orcid.org/0009-0008-1261-8373"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=s4csuu0AAAAJ&hl=en"
   email            : "callumleach31@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
