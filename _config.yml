@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
+  name             : "Callum Leach"
+  avatar           : "profile.jpg"
   bio              : "Data Scientist"
   location         :
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
   googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  email            : "callumleach31@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "Callum-Leach"
+  gitlab           : ""
   google_plus      :
   keybase          :
   instagram        :
